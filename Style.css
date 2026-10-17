@@ -1,11 +1,17 @@
-h1 {
-    color: blue;
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url('bg-img.avif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #333;
+    margin: 50px 50px;
 }
 
-#para1 {
-    color: blueviolet;
-}
+section {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(176, 11, 11, 0.1);
 
-#para2 {
-    color: brown;
 }
